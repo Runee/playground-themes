@@ -1,6 +1,5 @@
 <?php
 /**
- * MINDTRAINER DEMO THEME
  * Twenty Fifteen functions and definitions
  *
  * Set up the theme and provides some helper functions, which are used in the
